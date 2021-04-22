@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lol33116 (Kirill)
+- 👀 I’m interested in back-end development (Node.js, express, graphql) and DevOps (AWS, Jenkins, GitLab/GitHub CI/CD)
+- 📫 How to reach me lol33116@gmail.com https://t.me/mishink0
